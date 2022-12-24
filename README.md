@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+I am fullstack developer using Golang, Vue.js and Flutter
+- 🔭 I am working as a freelancer
+- 🌱 Currently learning to write cleaner code
+- 📫 You can see my website akifkadioglu.dev
+- ⚡ Apart from writing code, I do graffiti 
 <!--
 **akifkadioglu/akifkadioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
