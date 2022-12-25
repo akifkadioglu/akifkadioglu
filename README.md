@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=31&pause=1000&color=2190C5&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=31&pause=1000&color=2190C5&width=435&lines=Full+Stack+Web+Developer)](https://github.com/akifkadioglu)
 
 I am fullstack developer using Golang, Vue.js and Flutter
 - 🔭 I am working as a freelancer
@@ -9,7 +9,7 @@ I am fullstack developer using Golang, Vue.js and Flutter
 - 🏢 Studying at Pamukkale University
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akifkadioglu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akifkadioglu&show_icons=true&theme=gruvbox)](https://github.com/akifkadioglu)
 
 <!--
 **akifkadioglu/akifkadioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
