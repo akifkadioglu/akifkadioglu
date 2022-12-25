@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&pause=1000&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&pause=1000&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 I am fullstack developer using Golang, Vue.js and Flutter
 - 🔭 I am working as a freelancer
