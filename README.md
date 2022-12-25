@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am fullstack developer using Golang, Vue.js and Flutter
 - 🔭 I am working as a freelancer
+- 🤔 Don't be fooled that i have very few repository i just started using github.. my bad
 - 🌱 Currently learning to write cleaner code
 - 📫 You can see my website [akifkadioglu.dev](https://www.akifkadioglu.dev/)
 - ⚡ Apart from writing code, I do graffiti 
