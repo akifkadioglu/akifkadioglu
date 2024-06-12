@@ -2,12 +2,10 @@
 
 I am fullstack developer using Golang and Vue.js
 - 🔭 I’m currently working on MonoPayments
-- 🤔 Don't be fooled that i have very few repository i just started using github.. my bad
-- 🌱 Currently learning to write cleaner code
 - 📫 You can see my website [akifkadioglu.dev](https://www.akifkadioglu.dev/)
-- ⚡ Apart from writing code, I do graffiti 
-- 🏢 Studying at Pamukkale University
+- ⚡ Apart from writing code, I do graffiti
 
+Just run `npx akif` to see something about me :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akifkadioglu&show_icons=true&theme=gruvbox)](https://github.com/akifkadioglu)
 
