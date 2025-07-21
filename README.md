@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=31&pause=1000&color=2190C5&width=435&lines=Full+Stack+Developer)](https://github.com/akifkadioglu)
 
 I am fullstack developer using Golang and Vue.js
-- 🔭 I’m currently working on @simpliers
+- 🔭 I’m currently working on [@simpliers](https://github.com/simpliers)
 - 📫 You can see my website [akifkadioglu.dev](https://www.akifkadioglu.dev/)
 - ⚡ Apart from writing code, I do graffiti
 
