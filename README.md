@@ -7,10 +7,6 @@ I am fullstack developer using Golang and Vue.js
 
 Just run `npx akif` to see something about me :)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akifkadioglu&show_icons=true&theme=gruvbox)](https://github.com/akifkadioglu)
-
-
-![](https://komarev.com/ghpvc/?username=akifkadioglu&style=for-the-badge)
 
 <!--
 **akifkadioglu/akifkadioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
